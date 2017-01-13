@@ -1,0 +1,6 @@
+user_age = 0
+
+puts "Please enter your age"
+gets user_age.chomp
+
+case 
